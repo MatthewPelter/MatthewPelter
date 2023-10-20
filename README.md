@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Matthew Pelter</h1>
 <h3 align="center">A passionate Full Stack Developer from New York</h3>
 
-- 👨‍💻 All of my projects are available at <a href="matthewpelter.netlify.app" target="blank">[matthewpelter.netlify.app]
+- 👨‍💻 All of my projects are available at <a href="http://matthewpelter.netlify.app" target="blank">[matthewpelter.netlify.app]
 
 - 📫 How to reach me **pelter.matthew@gmail.com**
 
